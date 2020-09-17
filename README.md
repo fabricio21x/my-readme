@@ -6,11 +6,11 @@ This document is for people to know more about me and how to work with me :D
 
 I'm 24 years and from Lima, Peru :D
 
-My story with programming began when I was like 8 years and went to a _*robotics with legos*_ summer course. We used an interface that was like the LEGOs Mindstorm one (draggable blocks). I started to be curious about how all of that technology worked, so I decided that I was going to do something tech related.
+My story with programming began when I was like 8 and went to a robotics with legos summer course. We used an interface that was like the LEGOs Mindstorm one (draggable blocks). I started to be curious about how all of that technology worked, so I decided that I was going to do something tech related.
 
 In my high school years I learned how to build simple web pages with html, css and js and also how to hack wi-fi networks (just for testing purposes, clearly).
 
-Two years ago, I graduated from Informatics Engineering (it's basically computer science but my college decided to name it that way). In my last years of college I started liking Data Science, Machine Learning, AI and that... I also based my graduate thesis in NLP (Natural Language Processing)!
+Two years ago, I graduated from Informatics Engineering (it's basically computer science but my college decided to name it that way). In my last years of college I started liking Data Science, Machine Learning, AI and things related to those fields. I also based my graduate thesis in NLP (Natural Language Processing).
 
 So after I graduated I worked as a data scientist until July of this year, when I decided to take a personal challenge and go back to my other favorite thing: software developing.
 
@@ -31,8 +31,6 @@ Some of my favourites games are:
 - Fortnite
 - Valorant
 - World of Warcraft (currently playing)
-
-##
 
 ## Working with me
 
