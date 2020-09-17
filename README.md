@@ -50,11 +50,11 @@ Usually, I work from 9:30 to 6:30 _-ish_, but sometimes I stay a little more whe
 
 I like to communicate via message or calls and I'm always aware of Slack and Gmail, I have them on all my devices so in most cases I won't take too long to respond if it's on my working hours. I would prefer Slack but email is also fine :D
 
-I also tend to eat from 2:00 to 2:30 pm, so maybe I will take a little to respond if you message between that time.
+I also tend to eat from 2:00 to 2:30 pm, so maybe I will take a little to respond if you message around that time.
 
 ## What is your superpower?
 
-I usually don't say this because I think it makes me look a little superb but I'm a fast learner. I can get the hang of things really fast, being a good listener also helps because I can pick up key points easily and start to look at the literature to learn more :D
+I usually don't say this because I think it makes me look a little smug but I'm a fast learner. I can get the hang of things really fast, being a good listener also helps because I can pick up key points easily and start to look at the literature to learn more :D
 
 ## About feedback
 
